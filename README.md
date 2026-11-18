@@ -25,9 +25,10 @@ no AI-generated imagery, no garbled text.
 
 ## How it was built
 
-`build/page.html` holds the front page (HTML/CSS with inline SVG art) and
-`build/shot/shot.mjs` renders it with headless Chromium at exactly
-1024×1024. The shipped `entry.png` is that render.
+`page.html` holds the front page (HTML/CSS with inline SVG art) and
+`shot/shot.mjs` renders it with headless Chromium at exactly
+1024×1024. The shipped `entry.png` is that render. (The build sources
+live outside this repository; only the rendered image ships here.)
 
 ## The program
 
