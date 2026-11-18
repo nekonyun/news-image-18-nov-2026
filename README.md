@@ -1,6 +1,10 @@
-# The World in One Day — Wednesday 18 November 2026
+# news-image-18-nov-2026
 
-Entry for the make.fun bounty
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/nekonyun/news-image-18-nov-2026/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/nekonyun/news-image-18-nov-2026/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
+The World in One Day — Wednesday 18 November 2026. Entry for the make.fun bounty
 [news-image-20261118](https://make.fun/bounty/news-image-20261118):
 one image summing up the world's news of Wednesday 18 November 2026.
 
@@ -38,6 +42,8 @@ live outside this repository; only the rendered image ships here.)
 `main.ts` (Node 22, standard library only) copies `entry.png` to
 `/output/entry.png` (or `$MAKEFUN_OUTPUT_DIR`). It runs with no network.
 
+## Run it
+
 ```sh
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
@@ -45,3 +51,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
