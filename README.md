@@ -21,7 +21,10 @@ A newspaper front page, drawn as a web page and screenshotted to
 Every fact in the image comes from news first reported on 18 November 2026.
 The four panels use flat hand-drawn vector art (radar and drone, suspension
 bridge, airliner over a skyline, chip and bars) so every label stays crisp —
-no AI-generated imagery, no garbled text.
+no AI-generated imagery, no garbled text. The design is a red-and-black
+broadsheet system: the Gulf story leads as an inverted black panel, each
+headline carries one red signal word, stories are numbered 01–04, and
+ALSO TODAY runs as a black band over a faint newsprint grain.
 
 ## How it was built
 
